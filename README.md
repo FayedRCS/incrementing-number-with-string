@@ -7,6 +7,7 @@ I was writing a detailed new years resolution(I know, this should be done before
 At first glance I tought this would quite easy, but it turned out to be a little tricky. I tried to write the code completely by myself and find the best method to do this, without the need of extrenal help. I did read some documentation to remind me of the the syntax in JavaScript, along with some other methods.
 # After trying a few different methods, I decided that I was confident enough to use a while loop and came up with the following code:
 
+
 var howManyLoops = 0;
 var num = 1 //The value of 1 can be changed depending on what the starting number should be
 
@@ -21,5 +22,6 @@ var loops = function(){
 };
 
 loops();
+
 
 ## I was glad to be able to solve a real life problem I had, with the small amount of JavaScript knowledge I had obtained recently.
