@@ -8,20 +8,20 @@ At first glance I tought this would quite easy, but it turned out to be a little
 # After trying a few different methods, I decided that I was confident enough to use a while loop and came up with the following code:
 
 
-var howManyLoops = 0;
-var num = 1 //The value of 1 can be changed depending on what the starting number should be
+    var howManyLoops = 0;
+    var num = 1 //The value of 1 can be changed depending on what the starting number should be
 
-var loops = function(){
+        var loops = function(){
 
-    while(howManyLoops < 52){ //Number in here decides amount of times to print out
+            while(howManyLoops < 52){ //Number in here decides amount of times to print out
     
-        console.log ("Week " + num + ": "); //Can edit the string inside here. 
-        howManyLoops++;
-        num++;
-    }
-};
+                console.log ("Week " + num + ": "); //Can edit the string inside here. 
+                howManyLoops++;
+                num++;
+               }
+        };
 
-loops();
+    loops();
 
 
 ## I was glad to be able to solve a real life problem I had, with the small amount of JavaScript knowledge I had obtained recently.
