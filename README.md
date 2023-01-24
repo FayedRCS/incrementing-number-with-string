@@ -26,3 +26,4 @@ At first glance I tought this would quite easy, but it turned out to be a little
 
 ## I was glad to be able to solve a real life problem I had, with the small amount of JavaScript knowledge I had obtained recently.
 ### Issue closed B) 
+
