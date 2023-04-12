@@ -23,4 +23,4 @@ At first glance I tought this would quite easy, but it turned out to be a little
 
     loops();
 
-## I was glad to be able to solve a real life problem I had, with the small amount of JavaScript knowledge I had obtained recently.
+## Happy to see i could solve a real life issue, using just the small amount of JavaScript knowledge I had obtained recently.
