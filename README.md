@@ -20,7 +20,8 @@ At first glance I tought this would quite easy, but it turned out to be a little
                 num++;
                }
         };
-
+        
     loops();
 
 ## Happy to see i could solve a real life issue, using just the small amount of JavaScript knowledge I had obtained recently.
+
