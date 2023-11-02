@@ -10,13 +10,13 @@ At first glance I tought this would quite easy, but it turned out to be a little
 
 
     var howManyLoops = 0;
-    var num = 1 //The value of 1 can be changed depending on what the starting number should be
+    var initNum = 1 //The value of 1 can be changed depending on what the starting number should be
 
         var loops = function(){
 
             while(howManyLoops < 52){ //Number in here decides amount of times to print out
     
-                console.log ("Week " + num + ": "); //Can edit the string inside here. 
+                console.log ("Week " + initNum + ": "); //Can edit the string inside here. 
                 howManyLoops++;
                 num++;
                }
