@@ -1,4 +1,4 @@
-# incrementing-number-with-string
+no# incrementing-number-with-string
 Wanted to see if I could write out a string multiple times, with a number next to it counting each increment
 -------------------
 
@@ -27,4 +27,5 @@ At first glance I tought this would quite easy, but it turned out to be a little
 ## Happy to see i could solve a real life issue, using just the small amount of JavaScript knowledge I had obtained recently.
 
 🦊🦊🦊
+
 
