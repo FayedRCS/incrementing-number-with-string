@@ -5,7 +5,6 @@ I was writing a detailed new years resolution(I know, this should be done before
 "Week 3:", etc. When it occured to me, that I definitely could find an easier way to do this. Instead of writing the same string 52 times, I decided that I probably could write a loop in JavaScript to do this for me
 At first glance I tought this would quite easy, but it turned out to be a little tricky. I tried to write the code completely by myself and find the best method to do this, without the need of extrenal help. I did read some documentation to remind me of the the syntax in JavaScript, along with some other methods.
 
-
 # After trying a few different methods, I decided that I was confident enough to use a while loop and came up with the following code:
 
     var howManyLoops = 0;
